@@ -31,6 +31,10 @@ The capability link includes the provider's brought-demand referral tag. Licium 
 
 ## More verified BABYDOV data capabilities · October 2026
 
+**[Explore all three verified data capabilities — BABYDOV Data](https://babydov-licium-capabilities.vercel.app/)** · [AI-agent integration guide](https://babydov-licium-capabilities.vercel.app/llms.txt) · [Machine-readable catalog](https://babydov-licium-capabilities.vercel.app/capabilities.json)
+
+
+
 The same Licium supplier now provides **three** independent, read-only, source-cited services backed by previously accepted and paid work. Each currently advertises **1 Licium credit per call**; select the right capability before payment.
 
 | Service | Coverage | Call on Licium |
